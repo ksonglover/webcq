@@ -1,5 +1,5 @@
 # webcq
-webcq widget
+webcq widget (expired)
 
 # sample code
 <pre>
